@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InAppPurchaseTest-Unified", "..\InAppPurchaseTest-Unified\InAppPurchaseTest-Unified\InAppPurchaseTest-Unified.csproj", "{6F05BB6B-C062-4616-A864-0FE8C3D0829F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InAppPurchaseTest-simplified", "..\InAppPurchaseTest-Unified\InAppPurchaseTest-Unified\InAppPurchaseTest-simplified.csproj", "{6F05BB6B-C062-4616-A864-0FE8C3D0829F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
